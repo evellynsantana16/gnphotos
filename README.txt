@@ -30,3 +30,9 @@ A seção Sobre está pronta. Quando receber a foto correta do Gabriel, salve-a 
 ATUALIZAÇÃO FINAL
 - Foto profissional de Gabriel adicionada à seção Sobre.
 - A mesma foto foi definida como imagem de compartilhamento (Open Graph).
+
+
+ATUALIZAÇÃO:
+- 6 novas fotos de casamento.
+- 1 nova foto infantil.
+- 2 novas fotos de eventos e marcas.
